@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/RinLit-233-shiroko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=个人开发者;纯业余设计师;会些视频剪辑/动效制作;要中考了" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=个人开发者;纯业余设计师;会些视频剪辑or动效制作;要中考了😨" alt="Typing SVG" />
   </a>
 </p>
 
