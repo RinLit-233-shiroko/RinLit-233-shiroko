@@ -4,12 +4,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/RinLit-233-shiroko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=个人开发者;纯业余设计师;会些视频剪辑or动效制作;要中考了😨" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub%20Followers&color=33354d&style=flat-square"/></a>
 <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?label=CW%20Stars&color=0d92aa&style=flat-square"/></a>
 </p>
