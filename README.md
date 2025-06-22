@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub%20Followers&color=33354d&style=flat-square"/></a>
-<a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?label=CW%20Stars&color=0d92aa&style=flat-square"/></a>
+<a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub%20Followers&color=33354d&style=flat-square" alt="Followers~"/></a>
+<a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?label=CW%20Stars&color=0d92aa&style=flat-square" alt="CW GitHubStars"/></a>
 <a href="https://wakatime.com/@365718e1-85b8-425e-894f-6168f5b84712"><img src="https://wakatime.com/badge/user/365718e1-85b8-425e-894f-6168f5b84712.svg?style=flat-square&color=f47498" alt="Total time coded since Jun 1 2025" /></a>
 </p>
 
@@ -29,10 +29,11 @@
 
 ## 🌱 Open Source Projects
 
-| 项目                                                                   | 简述                        |
-|----------------------------------------------------------------------|---------------------------|
-| [Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI)               | 自研 Qt QML Fluent 风格的 UI 库 |
-| [Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) | 全新桌面课表，将于9月上旬推出 2.0 版本    |
+| 项目                                                                         | 简述                             |
+|----------------------------------------------------------------------------|--------------------------------|
+| [Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI)                     | 自研 Qt QML Fluent 风格的 UI 库      |
+| [Rin-Weather](https://github.com/RinLit-233-shiroko/Rin-Weather)           | 基于 RinUI 的 `Open-Meteo` 天气 App |
+| [Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets)       | 全新桌面课表，将于9月上旬推出 2.0 版本         |
 
 
 ## 📈 My GitHub Stats
