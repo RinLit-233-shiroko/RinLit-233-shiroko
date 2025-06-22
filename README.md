@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub%20Followers&color=33354d&style=flat-square"/></a>
 <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?label=CW%20Stars&color=0d92aa&style=flat-square"/></a>
+<a href="https://wakatime.com/@365718e1-85b8-425e-894f-6168f5b84712"><img src="https://wakatime.com/badge/user/365718e1-85b8-425e-894f-6168f5b84712.svg?style=flat-square&color=f47498" alt="Total time coded since Jun 1 2025" /></a>
 </p>
 
 ---
