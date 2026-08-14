@@ -1,4 +1,17 @@
-<div align="center">
+>[!NOTE]
+> 正在重构主页
+
+### 联络方式
+[爱发电](https://afdian.com/a/rinlit)
+
+<p>
+  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub&color=33354d&style=for-the-badge" /></a>
+  <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/Email-Foxmail (lintusup@foxmail.com)-blue?&color=c2bafd&style=for-the-badge" /></a>
+  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/badge/QQ-3295014118-blue.svg?logo=qq&color=6980cc&style=for-the-badge" /></a>
+</p>
+
+
+<!-- <div align="center">
   <img src="assets/img/Vtb.png" align="center" width="18%">
     <h1>Hi~ I'm Rin. 🐾</h1>
 </div>
@@ -57,4 +70,4 @@
   <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub&color=33354d&style=for-the-badge" /></a>
   <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/Email-Foxmail (lintusup@foxmail.com)-blue?&color=c2bafd&style=for-the-badge" /></a>
   <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/badge/QQ-3295014118-blue.svg?logo=qq&color=6980cc&style=for-the-badge" /></a>
-</p>
+</p> -->
