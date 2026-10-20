@@ -4,6 +4,24 @@
 ### 联络方式
 [爱发电](https://afdian.com/a/rinlit)
 
+
+<a href="https://rinlit.cn">
+  <picture>
+    <source
+      media="(max-width: 900px) and (prefers-color-scheme: dark)"
+      srcset="https://rinlit.cn/api/hero.svg?lang=zh-cn&scene=github-readme&theme=dark&layout=compact&ts=2">
+    <source
+      media="(max-width: 900px)"
+      srcset="https://rinlit.cn/api/hero.svg?lang=zh-cn&scene=github-readme&theme=light&layout=compact&ts=2">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://rinlit.cn/api/hero.svg?lang=zh-cn&scene=github-readme&theme=dark&ts=2">
+    <img
+      src="https://rinlit.cn/api/hero.svg?lang=zh-cn&scene=github-readme&theme=light&ts=2"
+      alt="RinLit 的首页">
+  </picture>
+</a>
+
 <p>
   <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub&color=33354d&style=for-the-badge" /></a>
   <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/Email-Foxmail (lintusup@foxmail.com)-blue?&color=c2bafd&style=for-the-badge" /></a>
