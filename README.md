@@ -1,10 +1,6 @@
 >[!NOTE]
 > 正在重构主页
 
-### 联络方式
-[爱发电](https://afdian.com/a/rinlit)
-
-
 <a href="https://rinlit.cn">
   <picture>
     <source
@@ -22,10 +18,25 @@
   </picture>
 </a>
 
+### Skills
+<a href="https://rinlit.cn">
+  <img
+      src="https://skillicons.dev/icons?perline=12&i=github,git,vscode,py,cpp,pycharm,visualstudio,html,css,js,md,astro,react,supabase,nodejs,npm,webstorm,qt,vite,ae,figma"
+      alt="我所掌握的 Skills" width='100%'>
+</a>
+
+
+### 联络方式
+
 <p>
-  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub&color=33354d&style=for-the-badge" /></a>
-  <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/Email-Foxmail (lintusup@foxmail.com)-blue?&color=c2bafd&style=for-the-badge" /></a>
-  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/badge/QQ-3295014118-blue.svg?logo=qq&color=6980cc&style=for-the-badge" /></a>
+  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub&logo=github&color=484848&style=for-the-badge" /></a>
+  <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/电子邮件(Email)-lintusup@foxmail.com-blue?color=c2bafd&logo=gmail&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/QQ-3295014118-pink.svg?logo=qq&color=6980cc&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-RinLit-pink.svg?logo=discord&color=5865f2&style=for-the-badge" /></a>
+  <a href="https://space.bilibili.com/569522843"><img src="https://img.shields.io/badge/哔哩哔哩(BiliBili)-RinLit_233OuO-pink.svg?logo=bilibili&color=df64ae&style=for-the-badge" /></a>
+  <a href="https://www.figma.com/@litrin"><img src="https://img.shields.io/badge/Figma-@litrin-pink.svg?logo=figma&color=484848&style=for-the-badge" /></a>
+  <a href="https://afdian.com/a/rinlit"><img src="https://img.shields.io/badge/爱发电(Afdian)-RinLit-pink.svg?logo=afdian&color=946ce6&style=for-the-badge" /></a>
+  <a href="https://rinlit.cn"><img src="https://img.shields.io/badge/小站(Site)-rinlit.cn-pink.svg?logo=astro&color=8c7ecd&style=for-the-badge" /></a>
 </p>
 
 
@@ -54,9 +65,7 @@
 - 🪄 精神状态良好
 - 😇 ~~蔚蓝档案白子厨 ww~~
 
-## 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,vscode,py,cpp,pycharm,visualstudio,html,css,less,js,md,nodejs,npm,webstorm,qt,vite,ae,pr,xd,ps,windows)](https://skillicons.dev)
 
 ## 🌱 Open Source Projects
 
