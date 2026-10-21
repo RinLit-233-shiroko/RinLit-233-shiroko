@@ -29,7 +29,7 @@
 ### 联络方式
 
 <p>
-  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=GitHub&logo=github&color=484848&style=for-the-badge" /></a>
+  <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=Followers&logo=github&color=484848&style=for-the-badge" /></a>
   <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/电子邮件(Email)-lintusup@foxmail.com-blue?color=c2bafd&logo=gmail&style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/QQ-3295014118-pink.svg?logo=qq&color=6980cc&style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-RinLit-pink.svg?logo=discord&color=5865f2&style=for-the-badge" /></a>
