@@ -53,7 +53,7 @@
   <a href="https://github.com/RinLit-233-shiroko"><img src="https://img.shields.io/github/followers/RinLit-233-shiroko?label=Followers&logo=github&color=484848&style=for-the-badge" /></a>
   <a href="mailto:lintusup@foxmail.com"><img src="https://img.shields.io/badge/电子邮件(Email)-lintusup@foxmail.com-blue?color=c2bafd&logo=gmail&style=for-the-badge" /></a>
   <a href="https://qm.qq.com/q/RipQXWEjOs"><img src="https://img.shields.io/badge/QQ-3295014118-pink.svg?logo=qq&color=6980cc&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-RinLit-pink.svg?logo=discord&color=5865f2&style=for-the-badge" /></a>
+  <a href="https://discord.com/users/1094659239047340112"><img src="https://img.shields.io/badge/Discord-RinLit-pink.svg?logo=discord&color=5865f2&style=for-the-badge" /></a>
   <a href="https://space.bilibili.com/569522843"><img src="https://img.shields.io/badge/哔哩哔哩(BiliBili)-RinLit_233OuO-pink.svg?logo=bilibili&color=df64ae&style=for-the-badge" /></a>
   <a href="https://www.figma.com/@litrin"><img src="https://img.shields.io/badge/Figma-@litrin-pink.svg?logo=figma&color=484848&style=for-the-badge" /></a>
   <a href="https://afdian.com/a/rinlit"><img src="https://img.shields.io/badge/爱发电(Afdian)-RinLit-pink.svg?logo=afdian&color=946ce6&style=for-the-badge" /></a>
