@@ -18,6 +18,27 @@
   </picture>
 </a>
 
+### Stats
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=RinLit-233-shiroko&show_icons=true&include_all_commits=true&theme=material-palenight">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=RinLit-233-shiroko&show_icons=true&include_all_commits=true&theme=buefy"
+      alt="RinLit 的 Stats" width=50%>
+  </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=RinLit-233-shiroko&hide_title=true&langs_count=4&theme=material-palenight">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=RinLit-233-shiroko&hide_title=true&langs_count=4&theme=buefy"
+    alt="RinLit 的Top语言" width=29%>
+</picture>
+</div>
+
 ### Skills
 <a href="https://rinlit.cn">
   <img
